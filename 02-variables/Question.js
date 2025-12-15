@@ -8,7 +8,7 @@ let numTwo = 20;
 
 /**
  *  1. make a new variable
- *  2. assign a value of previous varible, in a new variable 
+ *  2. assign a value of previous varible, in a new variable
  *  3. and assign a new variable to to swap variable values 
  */
 
