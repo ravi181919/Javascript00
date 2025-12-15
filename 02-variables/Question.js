@@ -18,7 +18,7 @@ console.log(`Before :: First Value ${numOne} Second Value ${numTwo}`);
 
 //  make a new variable
 let temp = numOne; // 10
-numOne = numTwo; // 20
-numTwo = temp; // 10 
+numOne = numTwo;   // 20
+numTwo = temp;     // 10 
 
 console.log(`After :: First Value ${numOne} Second Value ${numTwo}`);
